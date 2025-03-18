@@ -1,5 +1,6 @@
 let nombresAmigos = []; //Almacena los nombres de los amigos
 let listaAmigos = document.getElementById("listaAmigos");
+let a = 7;
 
 function agregarAmigo(){
     let nombreAmigo = document.getElementById("amigo").value; //Obtiene el input del nombre del amigo
